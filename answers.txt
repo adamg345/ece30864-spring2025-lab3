@@ -21,3 +21,12 @@ c)
     - Sprint Retrospective Meeting:
         - Occurs at end of sprint.
         - Any work that's still incomplete is backlogged.
+
+d) 
+    - Epic: An epic can be a story, bug, or task.
+
+    - Story: A requirement that's expressed in only a few sentences.
+
+    - Bug: A problem that needs to be fixed.
+
+    - Task: A piece of work that needs to be done.
