@@ -1,0 +1,8 @@
+a)
+Pros:
+    - Helps teams work together, and effective teamwork gets more done.
+    - Helps hold people accountable to particular roles and responsibilities.
+Cons:
+    - Agile can at times make things feel overcomplicated.
+    - Could possibly slow things down at times.
+
