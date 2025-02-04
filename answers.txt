@@ -9,4 +9,15 @@ Cons:
 b)
     Scrum Masters are focused on the scrum component of the project, whereas the product owner is focused on the entire software development process as a whole.
     
+c)
+    - Sprint Planning Meeting:
+        - Stories from the backlog are moved to the sprint.
+        - It's determine what's to be completed in the sprint.
 
+    -Daily Scrum Meeting:
+        - Short meeting that happens every day.
+        - Workers give a quick update on what's been completed and what they plan to complete for the day.
+
+    - Sprint Retrospective Meeting:
+        - Occurs at end of sprint.
+        - Any work that's still incomplete is backlogged.
