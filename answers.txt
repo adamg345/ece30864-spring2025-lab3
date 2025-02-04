@@ -6,3 +6,7 @@ Cons:
     - Agile can at times make things feel overcomplicated.
     - Could possibly slow things down at times.
 
+b)
+    Scrum Masters are focused on the scrum component of the project, whereas the product owner is focused on the entire software development process as a whole.
+    
+
